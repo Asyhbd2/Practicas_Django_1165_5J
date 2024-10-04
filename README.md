@@ -13,4 +13,6 @@ Aqui se realizan las practicas en Django que es un Framework Marco de trabajo UI
 11. Crear el proyecto en Python DJango --> django-admin startproject cbtis1285j1165 .
 12. Ejecutar el servidor  --> python manage.py runserver
 13. Realizar migracion --> python manage.py migrate
-14. Vuelve a ejecutar servidor 
+14. Vuelve a ejecutar servidor
+
+15. Crear app --> django-admin startapp puntaje_app
