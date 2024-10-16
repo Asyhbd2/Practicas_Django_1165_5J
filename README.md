@@ -16,9 +16,10 @@ Aqui se realizan las practicas en Django que es un Framework Marco de trabajo UI
 14. Vuelve a ejecutar servidor
 15. Crear app --> django-admin startapp puntaje_app
 16. Iniciar app 2 --> python manage.py startapp cbtis_app
-17.
-   ![image](https://github.com/user-attachments/assets/ec843028-f046-4a15-851d-abfbb99c77d0)
+17. python -m virtualenv .deleonsecundaria
 18.
+   ![image](https://github.com/user-attachments/assets/ec843028-f046-4a15-851d-abfbb99c77d0)
+19.
    ![image](https://github.com/user-attachments/assets/e1a9e01b-0ce5-467b-972c-3eff461ead74)
 
 
